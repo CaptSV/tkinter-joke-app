@@ -68,4 +68,4 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 * This project was developed as part of the [ZTM - Complete Python Developer course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/).
 * [Tkinter](https://docs.python.org/3/library/tkinter.html) for providing the core GUI framework.
-* [Pyjokes(https://pypi.org/project/pyjokes/)] library for the joke content.
+* [Pyjokes](https://pypi.org/project/pyjokes/) library for the joke content.
